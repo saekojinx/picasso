@@ -1,0 +1,58 @@
+
+body{
+    background-image: url(https://media.istockphoto.com/id/178133946/vector/watercolor-wallpaper-background.jpg?s=612x612&w=is&k=20&c=Hn2W339z-mCmCK_mV5q_yzkfhYpNMP5BgIkzd__gZyM=)
+    
+}
+
+img{
+			width: 50%;
+			height: 50%;
+            
+        
+}
+
+h1{ font-family: cursive;
+font-size: 50px;
+text-align: center;
+}
+
+h2{ font-family: cursive;
+    text-align: center;
+font-size: 50px;
+}
+
+div{
+    text-align: center;
+    background-color: lightseagreen;
+    width: fit-content;
+    margin-left: auto;
+   margin-right: auto;
+   display: grid;
+
+}
+form{
+    z-index: 10;
+    padding: 20px;
+    background-color: lightseagreen;
+    width: fit-content;
+   text-align: center;
+   display: grid;
+   position: absolute;
+   bottom: 0px;
+   right: 50px;
+   height: fit-content;
+}
+
+@media (min-width:480px)and(max-width:320px) {
+    
+}
+  
+  
+@media (min-width:1024px)and(max-width:768px) {
+    
+}
+  
+  
+@media (min-width:480px)and(max-width:320px) {
+    
+}
